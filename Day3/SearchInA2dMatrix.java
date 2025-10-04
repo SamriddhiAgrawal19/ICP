@@ -16,3 +16,4 @@ public class SearchInA2dMatrix {
     }
     
 }
+//tc O(n2)

@@ -28,3 +28,5 @@ public class NoOfIslands {
         }
     }
 }
+//tc-O(m*n)
+
